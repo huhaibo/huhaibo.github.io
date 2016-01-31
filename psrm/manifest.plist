@@ -13,6 +13,14 @@
 					<key>url</key>
 					<string>http://huhaibo.github.io/psrm/psrm.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://qzs21.github.io/iComic/res/180.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
