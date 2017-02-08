@@ -16,8 +16,12 @@
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
+					<key>url</key>
+					<string>https://huhaibo.github.io/psiptv/r.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
 					<key>url</key>
 					<string>https://huhaibo.github.io/psiptv/r.png</string>
 				</dict>
@@ -25,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.parasaga.iptv.7745WD8546</string>
+				<string>com.parasaga.iptv</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>iptv</string>
+				<string>传奇IPTV</string>
 			</dict>
 		</dict>
 	</array>
